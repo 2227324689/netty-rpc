@@ -86,7 +86,7 @@ public class HelloController {
 微信： mic4096
 个人博客： https://istio.tech
 微信公众号：
-![qrcode_for_gh_2ca1c20d4f6c_860](https://user-images.githubusercontent.com/52684867/142021673-5de16ad4-50f4-479b-8905-08f436cccebd.jpg)
+<img src="https://user-images.githubusercontent.com/52684867/142021673-5de16ad4-50f4-479b-8905-08f436cccebd.jpg" style="width:120px"/>
 
 
 # 个人作品
