@@ -83,10 +83,13 @@ public class HelloController {
 
 # 联系方式
 
-微信： mic4096
-个人博客： https://istio.tech
-微信公众号：
-<img src="https://user-images.githubusercontent.com/52684867/142021673-5de16ad4-50f4-479b-8905-08f436cccebd.jpg" style="width:120px"/>
+* 微信： mic4096
+
+* 个人博客： https://istio.tech
+
+* 微信公众号：
+
+<img src="https://user-images.githubusercontent.com/52684867/142021673-5de16ad4-50f4-479b-8905-08f436cccebd.jpg" style="width:200px"/>
 
 
 # 个人作品
