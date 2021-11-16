@@ -86,10 +86,15 @@ public class HelloController {
 微信： mic4096
 个人博客： https://istio.tech
 微信公众号：
-![qrcode_for_gh_2ca1c20d4f6c_860](https://user-images.githubusercontent.com/52684867/142021180-299fc3b1-7ad2-4620-80d3-c184c69d2ea7.jpg)
+![qrcode_for_gh_2ca1c20d4f6c_860](https://user-images.githubusercontent.com/52684867/142021673-5de16ad4-50f4-479b-8905-08f436cccebd.jpg)
+
 
 # 个人作品
 
-1. 《Spring Cloud Alibaba微服务原理与实战》，出版于2020年7月。
+1. 2020年出版[《Spring Cloud Alibaba微服务原理与实战》](https://item.jd.com/12848452.html)
 
-2. 《Java并发编程深度解析与实战》 出版与2021年10月。
+![](https://mic-blob-bucket.oss-cn-beijing.aliyuncs.com/c11d945cd9351817.jpg)
+
+2. 2021年出版[《Java并发编程深度解析与实战》](https://item.jd.com/12971665.html)
+
+![](https://mic-blob-bucket.oss-cn-beijing.aliyuncs.com/5c9303318a52c860.jpg)
